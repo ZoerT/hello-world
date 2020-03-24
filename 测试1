@@ -1,0 +1,1 @@
+此类应用的系统管理员可以在应用程序中配置 credentials 供Jenkins使用，通常将访问控制应用于这些 credentials， 以“锁定”Jenkins可用的应用程序功能区域。一旦Jenkins管理员（即管理Jenkins站点的用户） 在Jenkins中添加/配置这些 credentials，Pipeline项目就可以使用 credentials 与三方应用交互
